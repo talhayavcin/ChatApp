@@ -2,21 +2,15 @@
  
  This application users can be join the group and talk each other.
  
- ## Features
+ ## Introduction
  
- - This app can be contains multiple user with different rooms.
- - To connect users with each other we used websockets using Node.js, Express and Socket.io.
- - Some basic Chat UI.
- - On the frontend we used Vanilla JS.
- 
- 
- ## Usage
-```
-npm install
-npm run dev
+The use of satellite imagery for detection has become increasingly important for a wide variety of applications. Tree detection is one of the important applications of detecting from satellite images. 
+In this project, a dataset was prepared by labelling trees in some regions of Turkey with Python's library LabelImg. Then, the object detection algorithm, one of the machine learning techniques, was used. Roboflow and YOLOv5 Object Detection Model were used during Object detection.
 
-Go to localhost:3000
-```
+ 
+ ## Methods
+
+1. Obtaining Satellite Images
 
 ## Join Page
 ![This is an image](/img/JoinPage.PNG)
